@@ -35,7 +35,7 @@ $ npm install -g http-server
 $ hs
 ```
 
-``
+```
 $ npm run eject
 ```
 
